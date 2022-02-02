@@ -1,5 +1,5 @@
 # E-commerce Fashion Clothing and Apparel Store
-<!-- [Click here to view Store Preview](). -->
+[Click here to view Store Preview](https://www.loom.com/share/992eb250680e47fcb828549b41659dbf?sharedAppSource=personal_library).
 
 
 ## Preview
