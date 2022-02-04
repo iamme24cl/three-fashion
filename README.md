@@ -2,7 +2,8 @@
 [Click here to view Store Demo](https://www.loom.com/share/992eb250680e47fcb828549b41659dbf?sharedAppSource=personal_library).
 
 
-## Preview
+## ScreenShots :sunny:
+
 ---  
 ![home page](/images/three-fashion-home.png)
 ---
